@@ -1,3 +1,12 @@
+## 🚀 Trained Artifacts (Download Links)
+Due to file size limits on GitHub, the trained weights and quantized model are hosted on Google Drive:
+
+1. **Quantized Model (.gguf):** (https://drive.google.com/file/d/1dyWVLTnyw_a9X5kMstGTW1HwUAfALV1v/view?usp=sharing)]
+2. **LoRA Adapter Weights (.safetensors):** (https://drive.google.com/file/d/1Pm5_90Sd7F4eJXJ2AEios4Ojq9UFChDC/view?usp=sharing)
+3. **LoRA Adapter Config (.json):** https://drive.google.com/file/d/1O2CVK_FBb-R4HK4fdUvUDhcZvIGPPnwm/view?usp=sharing
+
+*Note: The grader should use these weights to verify the fine-tuning process.* 
+
 # Pocket-Agent Submission
 
 ## Base Model
