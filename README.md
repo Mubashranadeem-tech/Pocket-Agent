@@ -5,6 +5,7 @@
    `pip install llama-cpp-python gradio`
 4. Launch the interface:
    `python app.py`
+   complete zip file https://drive.google.com/file/d/1HfQfTCBY6gtgp0t5UI9HuhERuy609GIk/view?usp=sharing
 
 ## 🚀 Trained Artifacts (Download Links)
 Due to file size limits on GitHub, the trained weights and quantized model are hosted on Google Drive:
