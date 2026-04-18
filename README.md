@@ -1,3 +1,11 @@
+## 📱 How to Run the UI Demo
+1. Clone the repository.
+2. Download the model file from the Google Drive link above and rename it to `model.gguf` in the root folder.
+3. Install dependencies:
+   `pip install llama-cpp-python gradio`
+4. Launch the interface:
+   `python app.py`
+
 ## 🚀 Trained Artifacts (Download Links)
 Due to file size limits on GitHub, the trained weights and quantized model are hosted on Google Drive:
 
